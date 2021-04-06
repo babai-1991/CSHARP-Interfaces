@@ -1,0 +1,6 @@
+C:\Users\Subharthi Das\Desktop\cs-interface\Interface\Interfaces.Library\bin\Debug\Interfaces.Library.dll
+C:\Users\Subharthi Das\Desktop\cs-interface\Interface\Interfaces.Library\bin\Debug\Interfaces.Library.pdb
+C:\Users\Subharthi Das\Desktop\cs-interface\Interface\Interfaces.Library\obj\Debug\Ploygons.Library.csprojAssemblyReference.cache
+C:\Users\Subharthi Das\Desktop\cs-interface\Interface\Interfaces.Library\obj\Debug\Ploygons.Library.csproj.CoreCompileInputs.cache
+C:\Users\Subharthi Das\Desktop\cs-interface\Interface\Interfaces.Library\obj\Debug\Interfaces.Library.dll
+C:\Users\Subharthi Das\Desktop\cs-interface\Interface\Interfaces.Library\obj\Debug\Interfaces.Library.pdb

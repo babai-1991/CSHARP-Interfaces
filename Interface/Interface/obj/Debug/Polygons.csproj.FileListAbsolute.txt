@@ -1,0 +1,10 @@
+C:\Users\Subharthi Das\Desktop\cs-interface\Interface\Interface\bin\Debug\Interface.exe.config
+C:\Users\Subharthi Das\Desktop\cs-interface\Interface\Interface\bin\Debug\Interface.exe
+C:\Users\Subharthi Das\Desktop\cs-interface\Interface\Interface\bin\Debug\Interface.pdb
+C:\Users\Subharthi Das\Desktop\cs-interface\Interface\Interface\obj\Debug\Polygons.csprojAssemblyReference.cache
+C:\Users\Subharthi Das\Desktop\cs-interface\Interface\Interface\obj\Debug\Polygons.csproj.CoreCompileInputs.cache
+C:\Users\Subharthi Das\Desktop\cs-interface\Interface\Interface\obj\Debug\Interface.exe
+C:\Users\Subharthi Das\Desktop\cs-interface\Interface\Interface\obj\Debug\Interface.pdb
+C:\Users\Subharthi Das\Desktop\cs-interface\Interface\Interface\bin\Debug\Interfaces.Library.dll
+C:\Users\Subharthi Das\Desktop\cs-interface\Interface\Interface\bin\Debug\Interfaces.Library.pdb
+C:\Users\Subharthi Das\Desktop\cs-interface\Interface\Interface\obj\Debug\Polygons.csproj.CopyComplete
