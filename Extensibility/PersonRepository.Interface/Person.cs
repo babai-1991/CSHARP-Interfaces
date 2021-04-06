@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Common
+namespace PersonRepository.Interface
 {
     public class Person
     {
