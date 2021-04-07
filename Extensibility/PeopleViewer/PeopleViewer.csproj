@@ -209,21 +209,13 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\PersonRepository.CSV\PersonRepository.CSV.csproj">
-      <Project>{ee9b4fe6-92e0-45db-b2d5-90fe51d27130}</Project>
-      <Name>PersonRepository.CSV</Name>
+    <ProjectReference Include="..\PersonRepository.Factory\PersonRepository.Factory.csproj">
+      <Project>{e53db56d-c702-4259-b05d-3a8c8c58b5e3}</Project>
+      <Name>PersonRepository.Factory</Name>
     </ProjectReference>
     <ProjectReference Include="..\PersonRepository.Interface\PersonRepository.Interface.csproj">
       <Project>{ef1d5215-e99b-4fe7-abc3-bd748f75780c}</Project>
       <Name>PersonRepository.Interface</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\PersonRepository.Services\PersonRepository.Services.csproj">
-      <Project>{45d94272-3ad3-4666-8b62-46f5e8095d6d}</Project>
-      <Name>PersonRepository.Services</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\PersonRepository.SQL\PersonRepository.SQL.csproj">
-      <Project>{53e84d1f-a116-465f-8a1c-d46a4a774cbf}</Project>
-      <Name>PersonRepository.SQL</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
