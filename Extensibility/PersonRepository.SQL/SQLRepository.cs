@@ -29,7 +29,7 @@ namespace PersonRepository.SQL
         {
             using (var context = new PersonContext(options))
             {
-                return context.People.Where(p => p.Id == id).FirstOrDefault();
+                return context.People.FirstOrDefault(p => p.Id == id);
             }
         }
 
